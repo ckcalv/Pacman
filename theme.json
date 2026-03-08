@@ -1,0 +1,22 @@
+{
+  "button": {
+    "colours": {
+      "normal_border": "Yellow",
+      "normal_bg": "Black",
+      "normal_text": "Yellow",
+      "hovered_bg": "Yellow",
+      "hovered_text": "Black",
+      "hovered_border": "Yellow"
+    },
+    "font": {
+      "name": "Arial",
+      "size": 30,
+      "style": "bold"
+    },
+    "misc": {
+      "shape": "rounded_rectangle",
+      "shape_corner_radius": "10,10,10,10",
+      "border_width": "1"
+    }
+  }
+}
